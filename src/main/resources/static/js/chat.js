@@ -1,4 +1,4 @@
-const url = 'http://localhost:8090';
+const url = 'http://3.144.32.173:8080';
 
 
 function fetchAll() {
