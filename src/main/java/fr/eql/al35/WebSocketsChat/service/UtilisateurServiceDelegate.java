@@ -17,7 +17,7 @@ public class UtilisateurServiceDelegate implements UtilisateurService{
 
     private RestTemplate restTemplate;
     private String baseUrl =
-            "http://localhost:8085/chat-api-rest";
+            "http://3.144.32.173:8080/chat-api-rest";
 
     public UtilisateurServiceDelegate() {
         restTemplate = initRestTemplate();
